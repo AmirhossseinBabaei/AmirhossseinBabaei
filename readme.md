@@ -27,7 +27,7 @@ I am mid-level Laravel Developer
 - Front End and BackEnd Developer
 - I love Develop the RestFull Applications
 
-## مهارت‌ها
+## Abilities
 **Front End:**  
 HTML, CSS, JavaScript, Bootstrap, Tailwind, Vue.js
 
